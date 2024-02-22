@@ -5,7 +5,7 @@
 
  'An aspring data scientist currently learning NLP using spacy.'
 
- Im also working to brush my skills in computer vision and deep learning in my case deep reinfrcement learning.
+ Im also working to brush my skills in computer vision and deep learning in my case deep reinforcement learning.
  
 
 
