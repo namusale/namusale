@@ -1,10 +1,10 @@
 ## Namusale Chama
 
-Data Scientist | ML | Python, PyTorch, scikit-learn | Research & applied projects in education, RL
+Python | Pandas | Scikit-learn | PyTorch | Reinforcement Learning
 
 ## Featured Projects
-1. [Road_Traffic_Incidents]() — EDA & ML on UK traffic data
-2. [REINFORCE](link) — Deep RL algorithm implementation
-3. [td0-gridworld](link) — RL foundations
+1. [Road_Traffic_Incidents](https://github.com/namusale/Road_Traffic_Incidents) — EDA & ML on UK traffic data
+2. [REINFORCE](https://github.com/namusale/REINFORCE) — Deep RL algorithm implementation
+3. [td0-gridworld](https://github.com/namusale/td0-gridworld) — RL foundations
 
 Colchester, UK | Portfolio: github.com/namusale
