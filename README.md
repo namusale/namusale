@@ -1,6 +1,6 @@
 ## Hi there, I'm Namusale Chama 👋
 
-I am a Machine Learning Engineer and Full-Stack AI Developer specializing in data pipelines, predictive modeling, and intelligent systems. I hold an MSc in Intelligent Systems and Robotics (Distinction) and focus on building end-to-end applications that bridge advanced ML backends with clean user interfaces.
+I am a Machine Learning Engineer and Full-Stack AI Enthusiast specializing in data pipelines, predictive modeling, and intelligent systems. I hold an MSc in Intelligent Systems and Robotics (Distinction) and focus on building end-to-end applications that bridge advanced ML backends with clean user interfaces.
 
 ## 🚀 Technical Toolkit
 
